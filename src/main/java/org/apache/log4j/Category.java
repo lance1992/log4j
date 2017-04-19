@@ -599,7 +599,6 @@ public class Category implements ULogger, AppenderAttachable {
    * Get the appenders contained in this category as an {@link Enumeration}.
    * If no appenders can be found, then a {@link NullEnumeration} is
    * returned.
-   *
    * @return Enumeration An enumeration of the appenders in this category.
    */
   public Enumeration getAllAppenders() {
