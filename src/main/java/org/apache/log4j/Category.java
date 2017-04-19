@@ -620,6 +620,7 @@ public class Category implements ULogger, AppenderAttachable {
   /**
    * Look for the appender named as <code>name</code>.
    *
+   *
    * <p>
    * Return the appender with that name if in the list. Return
    * <code>null</code> otherwise.
